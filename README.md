@@ -8,9 +8,11 @@ Application form submission
 Esay navigation
 
 # Language used
-Html 
-Css
+HTML
+CSS
 
 # Purpsoe of this project
 This project was created to practice web development skills
-
+# Note
+This is a beginner repository, so some projects may contain simple designs or mistakes.
+I am continuously learning and improving my skills.
