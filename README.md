@@ -1,6 +1,6 @@
 # Job-application-website
-About this project
-This is a job application website where users can view
+# About this project
+This is a job application website where users can view and fill the job application form.
 
 # Features
 User frindly interface
